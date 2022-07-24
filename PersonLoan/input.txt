@@ -1,0 +1,19 @@
+Customer
+1
+Jane Doe
+1111 New State Drive, Tampa, Florida
+UH321123
+1
+2
+3
+4
+Jane Deer
+5
+2222 Old Village Way, Nowhere, Kansas
+6
+ZZ999999
+3
+2
+1
+0
+0
